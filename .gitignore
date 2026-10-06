@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+*.iml
+.gradle
+.idea
+build
+local.properties
+xcuserdata
+.kotlin
+*.gpg
+
+gradle-user-home
+gradle-remote-cache-data
+
+*.jar
